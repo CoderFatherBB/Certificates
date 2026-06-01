@@ -1,61 +1,38 @@
 <div align="center">
-  <h1 align="center">Certificates</h1>
+  <h1>Certificates</h1>
+  <p><strong>A personal archive of professional, academic, and online-learning certificates.</strong></p>
   <p align="center">
-    <strong>Collection of all my course and achievement certificates.</strong>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/github/license/CoderFatherBB/Certificates?style=flat-square&color=007ec6" alt="License">
-    <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Certificates?style=flat-square&color=007ec6" alt="Repo Size">
-    <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Certificates?style=flat-square&color=007ec6" alt="Last Commit">
-  </p>
+  <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Certificates?style=flat-square&color=007ec6" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Certificates?style=flat-square&color=007ec6" alt="Last Commit">
+</p>
 </div>
 
----
+## About
 
-## 📖 Overview
+This repository keeps certificates and course completion proof organized by source. It includes Persistent University credentials, Udemy certificates, symposium proof, and other learning artifacts.
 
-Welcome to the **Certificates** repository. Collection of all my course and achievement certificates.
+## Repository Map
+
+- `Persistent University/`: GenAI, Copilot, agentic AI, MCP, platform, and related certificates.
+- `Udemy/`: AI, LangChain, RAG, fine-tuning, Azure OpenAI, and developer-tool certificates.
+- Top-level PDFs for symposium and NLP/deep learning participation.
 
 
+## Getting Started
 
----
+Clone the repository:
 
-## 🚀 Getting Started
+```bash
+git clone https://github.com/CoderFatherBB/Certificates.git
+cd Certificates
+```
 
-### Prerequisites
+Open the folder or notebook you want to explore. Most directories are self-contained, so start from the local `README.md`, source file, notebook, or project folder for that topic.
 
-Make sure you have the necessary environment setup to run or build the project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
 
-### Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CoderFatherBB/Certificates.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Certificates
-   ```
-3. Run or execute the relevant files as per the language standards.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CoderFatherBB/Certificates/issues).
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
